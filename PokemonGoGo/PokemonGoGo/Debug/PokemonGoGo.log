@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\kenny\documents\visual studio 2015\projects\pokemongogo\pokemongogo\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\kenny\documents\visual studio 2015\projects\pokemongogo\pokemongogo\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\kenny\documents\visual studio 2015\projects\pokemongogo\pokemongogo\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\kenny\documents\visual studio 2015\projects\pokemongogo\pokemongogo\source.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\kenny\documents\visual studio 2015\projects\pokemongogo\pokemongogo\source.cpp(165): warning C4018: '<': signed/unsigned mismatch
+  PokemonGoGo.vcxproj -> c:\users\kenny\documents\visual studio 2015\Projects\PokemonGoGo\Debug\PokemonGoGo.exe
+  PokemonGoGo.vcxproj -> c:\users\kenny\documents\visual studio 2015\Projects\PokemonGoGo\Debug\PokemonGoGo.pdb (Full PDB)
